@@ -6,7 +6,6 @@ import os
 import random
 import smtplib
 from email.message import EmailMessage
-import imghdr
 from pymongo import MongoClient
 
 load_dotenv()
